@@ -1,0 +1,6 @@
+nbdev
+tensorflow 
+pandas 
+numpy 
+gurobipy 
+ortools
